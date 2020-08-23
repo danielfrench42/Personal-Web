@@ -1,0 +1,19 @@
+{
+  "name": "personal-web",
+  "version": "1.0.0",
+  "description": "Portolio Site",
+  "main": "java.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielfrench42/Personal-Web.git"
+  },
+  "author": "Daniel French",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielfrench42/Personal-Web/issues"
+  },
+  "homepage": "https://github.com/danielfrench42/Personal-Web#readme"
+}
