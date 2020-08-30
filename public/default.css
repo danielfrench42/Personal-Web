@@ -8,6 +8,10 @@
     margin: 0;
 } */
 
+* {
+    color: blue;
+}
+
 h1,h2 {
     color: var(--mainText);
 }
